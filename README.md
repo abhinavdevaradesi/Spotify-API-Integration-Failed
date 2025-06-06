@@ -31,6 +31,26 @@ This repo contains my attempt to integrate with the Spotify API to fetch audio f
 - Plan to build an audio features dashboard using static data before attempting live API integration again.
 - Will revisit Spotify API integration after strengthening core data handling skills.
 
+## Working Parts / Previews
+
+While the API integration for audio features failed, I was able to successfully:
+
+- Fetch and save top tracks data from Spotify.
+- Use `spotify_analysis.py` to generate visualizations and insights based on the available track data.
+
+### Sample Visualizations from `spotify_analysis.py`
+
+- **Top Artists by Number of Tracks**
+- **Track Popularity Distribution**
+- **Duration of Tracks Histogram**
+- **Scatter Plot of Popularity vs Duration**
+
+![image](https://github.com/user-attachments/assets/3643fe36-4cd3-456a-8d0c-7ee14ecbaff1)
+![image](https://github.com/user-attachments/assets/b43d5fcc-42a3-46b0-bee9-611d6c962e47)
+
+
+These visualizations demonstrate my ability to analyze and interpret music data, laying the groundwork for future projects with richer datasets.
+
 ---
 
 Feel free to browse the code and reach out if you want to discuss!
